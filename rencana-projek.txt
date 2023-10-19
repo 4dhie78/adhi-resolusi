@@ -1,4 +1,6 @@
 RENCANA MEMBUAT PROJEC PERTAMA SAYA
 -mau bikin website
+  *dengan boostrab
 -mau bikin form login
+  *framework codeigniter
 -mau bikin aplikasi mobile
